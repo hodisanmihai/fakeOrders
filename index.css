@@ -1,0 +1,21 @@
+.tabel-comenzi {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-family: sans-serif;
+  border: 1px solid #ddd;
+}
+
+.tabel-comenzi thead tr {
+  background-color: #f2f2f2;
+}
+
+.tabel-comenzi th,
+.tabel-comenzi td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.tabel-comenzi tbody tr:hover {
+  background-color: #f9f9f9;
+}
