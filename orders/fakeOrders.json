@@ -9,7 +9,7 @@
     "orderId": "r48503",
     "SKU": "b-149",
     "rugSize": "75x215",
-    "rugType": "outdoor"
+    "rugType": "flat"
   },
   {
     "orderId": "r48504",
@@ -27,7 +27,7 @@
     "orderId": "r48506",
     "SKU": "b-152",
     "rugSize": "305x245",
-    "rugType": "outdoor"
+    "rugType": "wool"
   },
   {
     "orderId": "r48507",
@@ -45,7 +45,7 @@
     "orderId": "r48509",
     "SKU": "b-155",
     "rugSize": "90x150",
-    "rugType": "outdoor"
+    "rugType": "flat"
   },
   {
     "orderId": "r48510",
@@ -55,7 +55,7 @@
   },
   {
     "orderId": "r48511",
-    "SKU": "b-157",
+    "SKU": "b-156",
     "rugSize": "185x275",
     "rugType": "wool"
   },
@@ -63,7 +63,7 @@
     "orderId": "r48512",
     "SKU": "b-158",
     "rugSize": "75x215",
-    "rugType": "outdoor"
+    "rugType": "wool"
   },
   {
     "orderId": "r48513",
@@ -73,7 +73,7 @@
   },
   {
     "orderId": "r48514",
-    "SKU": "b-160",
+    "SKU": "b-159",
     "rugSize": "330x245",
     "rugType": "wool"
   },
@@ -81,7 +81,7 @@
     "orderId": "r48515",
     "SKU": "b-161",
     "rugSize": "75x305",
-    "rugType": "outdoor"
+    "rugType": "wool"
   },
   {
     "orderId": "r48516",
@@ -99,7 +99,7 @@
     "orderId": "r48518",
     "SKU": "b-164",
     "rugSize": "150x215",
-    "rugType": "outdoor"
+    "rugType": "flat"
   },
   {
     "orderId": "r48519",
@@ -115,7 +115,7 @@
   },
   {
     "orderId": "r48521",
-    "SKU": "b-167",
+    "SKU": "b-166",
     "rugSize": "305x245",
     "rugType": "outdoor"
   }
